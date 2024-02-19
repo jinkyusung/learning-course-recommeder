@@ -17,7 +17,7 @@
 
 ## **II.** Architecture Details
 
-Model에 대한 구현은 `fusion/model/coldstart` or `fusion/model/warmstart` 에 있다.
+Model에 대한 구현은 `recsys/model/coldstart` or `recsys/model/warmstart` 에 있다.
 
 ### Cold-start
 
